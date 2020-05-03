@@ -1,0 +1,3 @@
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/build/CMakeFiles/rebuild_cache.dir
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/build/CMakeFiles/edit_cache.dir
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/build/CMakeFiles/pooii-tarea-2-entrega-01-05-jorgecollazos.dir

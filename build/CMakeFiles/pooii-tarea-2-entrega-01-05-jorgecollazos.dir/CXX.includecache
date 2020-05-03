@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/ejercicios.cpp
+ejercicios.h
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/ejercicios.h
+t_stack/Stack_T.h
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/t_stack/Stack_T.h
+stack/Stack.h
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/stack/Stack.h
+
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/ejercicios.h
+funciones.h
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/funciones.h
+
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/funciones.h
+tipos.h
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/tipos.h
+
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/stack/Stack.h
+
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/t_stack/Stack_T.h
+
+/home/jorge/GitHub/POO2_LAB/Repaso/pooii-tarea-2-entrega-01-05-jorgecollazos/src/tipos.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+set
+-
+stack
+-
+list
+-
+

@@ -1,0 +1,11 @@
+//
+// Created by jorge on 1/5/20.
+//
+
+#ifndef POOII_TAREA_2_ENTREGA_01_05_JORGECOLLAZOS_FUNCIONES_H
+#define POOII_TAREA_2_ENTREGA_01_05_JORGECOLLAZOS_FUNCIONES_H
+
+#include "tipos.h"
+void print_list(list<int> li);
+
+#endif //POOII_TAREA_2_ENTREGA_01_05_JORGECOLLAZOS_FUNCIONES_H
